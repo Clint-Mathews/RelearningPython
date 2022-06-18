@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7f4c94c-1bc3-402d-b379-2c4388a43ad9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DictionaryEx.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MergeDictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultipleAssignments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SetsPython.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prettyPrint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python-Mastery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Mastery.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassEx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentClassEx.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,8 +48,8 @@
   <component name="PyDebuggerOptionsProvider">
     <option name="mySupportQtDebugging" value="false" />
   </component>
-  <component name="RunManager" selected="Python.SetsPython">
-    <configuration name="DictionaryEx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.StudentClassEx">
+    <configuration name="ClassEx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Mastery" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DictionaryEx.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassEx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentClassEx" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Mastery" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StudentClassEx.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.StudentClassEx" />
+        <item itemvalue="Python.ClassEx" />
         <item itemvalue="Python.SetsPython" />
         <item itemvalue="Python.MergeDictionaries" />
         <item itemvalue="Python.prettyPrint" />
-        <item itemvalue="Python.DictionaryEx" />
-        <item itemvalue="Python.Tuple" />
       </list>
     </recent_temporary>
   </component>
