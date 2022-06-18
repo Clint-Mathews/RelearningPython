@@ -31,8 +31,10 @@ s6 = Student("Clint6",28,91)
 
 
 course = Course("Science",2)
-course.addStudent(s1)
-course.addStudent(s2)
+print(course.addStudent(s1))
+print(course.addStudent(s2))
+print(course.addStudent(s3))
 
 print(course.students)
+print(course.students[0].name)
 print(course.averageGrade())
